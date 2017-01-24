@@ -27,9 +27,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="1252.8933"
-     inkscape:cx="429.23773"
-     inkscape:zoom="1.5534869"
+     inkscape:cy="399.55927"
+     inkscape:cx="323.67016"
+     inkscape:zoom="1.0984811"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -632,8 +632,8 @@
        r="20.575167"
        style="fill:none;stroke:#000000;stroke-width:1.77165341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4287"
-       cx="-614.60663"
-       cy="221.99248"
+       cx="-776.17865"
+       cy="294.08835"
        transform="scale(-1,-1)" />
     <path
        inkscape:connector-curvature="0"
@@ -825,8 +825,8 @@
        id="rect5185"
        width="40.943123"
        height="45.928089"
-       x="680.07495"
-       y="-108.29363" />
+       x="690.37439"
+       y="-193.90749" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.77165341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 555.15967,-360.77014 a 20.575167,20.575167 0 0 0 5.88084,-5.10707 l -19.08886,-33.06289 a 20.575167,20.575167 0 0 0 -7.3662,2.53436 20.575167,20.575167 0 0 0 -7.53068,28.10491 20.575167,20.575167 0 0 0 28.1049,7.53069 z"
